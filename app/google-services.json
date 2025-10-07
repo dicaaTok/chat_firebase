@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1021045125065",
+    "firebase_url": "https://my-chat-e713d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "my-chat-e713d",
+    "storage_bucket": "my-chat-e713d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021045125065:android:3abf93d0a9f151d4e88218",
+        "android_client_info": {
+          "package_name": "com.example.chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuXL0kDNtd_uUrZKcfU-8qamLBkZ_pqjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
