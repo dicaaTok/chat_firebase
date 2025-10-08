@@ -14,6 +14,8 @@ import com.google.firebase.database.ValueEventListener
 import com.google.firebase.database.database
 
 class MainActivity : AppCompatActivity() {
+    //cmd
+    //gradlew signingReport вызов индивидуалного отпечатка для регистраци через гугл
     lateinit var binding: ActivityMainBinding
 
     override fun onCreate(savedInstanceState: Bundle?) {

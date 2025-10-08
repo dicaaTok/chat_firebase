@@ -53,6 +53,12 @@ dependencies {
     //implementation(libs.firebase.auth.ktx)
     implementation(libs.firebase.database)
 
+    // Firebase регистрация через гугл
+    implementation(libs.firebase.auth)
+    implementation(libs.androidx.credentials)
+    implementation(libs.androidx.credentials.play.services.auth)
+    implementation(libs.googleid)
+
     // AndroidX
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.appcompat)
